@@ -1,0 +1,23 @@
+/* Nav.css */
+.nav-link {
+    text-decoration: none; /* Remove text decoration */
+    color: rgb(122, 122, 122);          /* Ensure text color is black */
+    font-size: medium;
+  }
+  
+  .nav-link:hover {
+    text-decoration: none; /* Remove text decoration on hover */
+    color: rgb(100, 89, 89);          /* Ensure text color is black */
+
+  }
+  .nav-link:active {
+    text-decoration: none; /* Remove text decoration on hover */
+    color: rgb(100, 89, 89);          /* Ensure text color is black */
+
+  }
+  
+  .color-black {
+    color: rgb(97, 95, 95);
+  }
+  
+  

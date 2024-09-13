@@ -1,0 +1,20 @@
+.dropdown-item img {
+    width: 20px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 10px; /* Space between image and text */
+  }
+  .flag-icon {
+    width: 20px; /* Adjust the width as needed */
+    height: auto;
+    margin-right: 10px; /* Space between image and text */
+  }
+  
+  .dropdown-item {
+    display: flex;
+    align-items: center;
+  }
+  button#dropdownMenuButton {
+    width: 3vw;
+    padding: 2px;
+}
+  

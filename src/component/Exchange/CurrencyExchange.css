@@ -1,0 +1,21 @@
+#xbtn {
+    width: 4vw;
+    height: 4vw;
+    position: absolute;
+    transition: none;
+    transform: translate(475px, 80px);    
+    border: 9px solid white !important;
+    background: rgb(80 99 255);
+}
+
+#cxcard{
+    width: 27vw !important;
+    border: none;
+    height: 20vh;
+    }
+.svg.svg-inline--fa.fa-arrows-rotate{
+        display: var(--fa-display, inline-block);
+        height: 2em;
+        overflow: visible;
+        vertical-align: -0.125em;
+    }
