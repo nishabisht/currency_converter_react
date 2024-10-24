@@ -12,7 +12,7 @@ const RouterMain = () => {
       </header>
       <Routes>
         <Route path="/login" element={<Login />} />
-        <Route path="/" element={<Home />} />
+        <Route path="/currency_converter_reac" element={<Home />} />
       </Routes>
     </div>
   );
